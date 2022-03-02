@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 <br/>
 <section>
 <ul>
-<li>📚 Software Engineering student;</li>
-<li>🚀 Rocketseat Student;</li>
-<li>📋 Software Developer;</li>
+<li>📋 Software Architect;</li>
 <li>💻 Currently on Home Office.</li>
 </ul>
 </section>
